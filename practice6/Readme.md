@@ -25,11 +25,14 @@ assign six_digit_seg = { 4{7'b0000000}, seg_left, seg_right }
 ## 결과
 ### **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 `Please fill up your source`
+https://github.com/doeunhye/LogicDesign/tree/master/practice6 LogicDesign/practice6 at master · doeunhye/LogicDesign
+
+[캡처.R.PNG]![](https://github.com/doeunhye/LogicDesign/blob/master/practice6/%EC%BA%A1%EC%B2%98.R.PNG "캡처.R.PNG")
 ### **FPGA 동작 사진 (3개- 일반, Q1, Q2)**
 `Please fill up your source`
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODczNTczN119
+eyJoaXN0b3J5IjpbLTIxMzY5NTY5OTBdfQ==
 -->
