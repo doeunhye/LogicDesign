@@ -38,19 +38,13 @@ COMPLETECODE : 32개의 데이터가 완성되면, 다시 IDLECODE로 넘어가�
 
 **Top Module 의 DUT/TestBench Code 및 Waveform 검증**
 
-`Please fill up your source`https://github.com/doeunhye/LogicDesign/tree/master/practice9
+https://github.com/doeunhye/LogicDesign/tree/master/practice9
 
 ### **결과(3개- wave 사진, FPGA동작 사진)**
 
 `Please fill up your source`
-![]
-(
-https://github.com/doeunhye/LogicDesign/blob/master/practice9/FPGA%20%EC%8B%A4%ED%96%89%20%EC%82%AC%EC%A7%84.jpg
-)
-![]
-(
-https://github.com/doeunhye/LogicDesign/blob/master/practice9/%EC%BA%A1%EC%B2%98.PNG
-)
+![](https://github.com/doeunhye/LogicDesign/blob/master/practice9/FPGA%20%EC%8B%A4%ED%96%89%20%EC%82%AC%EC%A7%84.jpg)
+![](https://github.com/doeunhye/LogicDesign/blob/master/practice9/%EC%BA%A1%EC%B2%98.PNG)
 wave사진을 보면 clk_h에 9000ms가 들어온 후에 clk_l에 4.5ms가 들어 는 것을 알 수 있음.
 
 <!--stackedit_data:
